@@ -219,8 +219,7 @@ class UAZ_Unarmed_TK_CIV_EP1_DZE1: UAZ_Unarmed_TK_CIV_EP1 {
 
 // Armor 2
 class UAZ_CDF_DZE2: UAZ_CDF_DZE1 {
-	armor = 100; // UAZ 40
-	damageResistance = 0.02099;
+	armor = 50; // car 20
 	class HitPoints: HitPoints {
 		class HitLFWheel: HitLFWheel {
 			armor = 0.3;
@@ -267,8 +266,7 @@ class UAZ_CDF_DZE2: UAZ_CDF_DZE1 {
 	};
 };
 class UAZ_INS_DZE2: UAZ_INS_DZE1 {
-	armor = 100; // UAZ 40
-	damageResistance = 0.02099;
+	armor = 50; // car 20
 	class HitPoints: HitPoints {
 		class HitLFWheel: HitLFWheel {
 			armor = 0.3;
@@ -315,8 +313,7 @@ class UAZ_INS_DZE2: UAZ_INS_DZE1 {
 	};
 };
 class UAZ_RU_DZE2: UAZ_RU_DZE1 {
-	armor = 100; // UAZ 40
-	damageResistance = 0.02099;
+	armor = 50; // car 20
 	class HitPoints: HitPoints {
 		class HitLFWheel: HitLFWheel {
 			armor = 0.3;
@@ -363,8 +360,7 @@ class UAZ_RU_DZE2: UAZ_RU_DZE1 {
 	};
 };
 class UAZ_Unarmed_TK_EP1_DZE2: UAZ_Unarmed_TK_EP1_DZE1 {
-	armor = 100; // UAZ 40
-	damageResistance = 0.02099;
+	armor = 50; // car 20
 	class HitPoints: HitPoints {
 		class HitLFWheel: HitLFWheel {
 			armor = 0.3;
@@ -411,8 +407,7 @@ class UAZ_Unarmed_TK_EP1_DZE2: UAZ_Unarmed_TK_EP1_DZE1 {
 	};
 };
 class UAZ_Unarmed_UN_EP1_DZE2: UAZ_Unarmed_UN_EP1_DZE1 {
-	armor = 100; // UAZ 40
-	damageResistance = 0.02099;
+	armor = 50; // car 20
 	class HitPoints: HitPoints {
 		class HitLFWheel: HitLFWheel {
 			armor = 0.3;
@@ -459,8 +454,7 @@ class UAZ_Unarmed_UN_EP1_DZE2: UAZ_Unarmed_UN_EP1_DZE1 {
 	};
 };
 class UAZ_Unarmed_TK_CIV_EP1_DZE2: UAZ_Unarmed_TK_CIV_EP1_DZE1 {
-	armor = 100; // UAZ 40
-	damageResistance = 0.02099;
+	armor = 50; // car 20
 	class HitPoints: HitPoints {
 		class HitLFWheel: HitLFWheel {
 			armor = 0.3;
